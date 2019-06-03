@@ -127,5 +127,11 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "@stylable/core": "^1.0.6",
+    "@stylable/webpack-plugin": "^1.1.4",
+    "node-sass": "^4.12.0",
+    "stylable": "^5.4.11"
   }
 }
